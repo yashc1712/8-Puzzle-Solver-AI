@@ -1,7 +1,3 @@
-Name: Yashkumar Chandwani
-UTA ID: 1002115885
-
-
 Programming Language: Python
 Version: Python 3.8.5
 
